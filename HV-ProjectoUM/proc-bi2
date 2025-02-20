@@ -1,0 +1,28 @@
+#!/usr/bin/python3
+from jjcli import * 
+from bs4 import BeautifulSoup as bs
+from textwrap import wrap
+
+c=clfilter(opt="do:")
+out="<mbi>"
+for txt in c.text():
+    print(c.filename())
+    dt=bs(txt,'lxml-xml')
+    out += "\n<bi>"
+    for a in  dt.findAll('depoente'):
+         a.name = 'name'
+         out += "\n  "+str(a)
+    for a in  dt.findAll('profissao'):
+         out += "\n  "+str(a)
+    for a in  dt.findAll('biografia'):
+         out += "\n  "+ str.join("\n    ",wrap(str(a)))
+    for a in  dt.findAll('data'):
+         a.name = 'data-entrevista'
+         a['iso']= f'{a["ano"]}-{a.get("mes","-")}-{a.get("dia","-")}'
+         del a['ano']
+         del a['mes']
+         del a['dia']
+         out += "\n  "+str(a)
+    out += "\n</bi>"
+out+="\n</mbi>"
+print(out)

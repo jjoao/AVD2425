@@ -1,0 +1,121 @@
+---
+interviewee: Janine Dias
+date: 8 de abril de 2024
+place: Centro Educativo Bamboo
+job: Psicóloga
+place_bith: Famalicão
+date_birth: 3 de julho de 1992
+notes: Com os 50 anos da Universidade do Minho é importante celebrar as pessoas que por aqui passaram, e que daqui levam ferramentas suficientes para traçar um caminho bonito. Uma dessas pessoas é Janine Dias.
+---
+
+![Fotografia](https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)
+
+# Anos na Universidade
+
+## Conta-me um bocadinho do teu percurso académico, em que ano é que foste para a universidade, qual o curso...
+Eu tirei a minha licenciatura noutra universidade, Psicologia, e depois fui parar à Uminho para fazer um mestrado. Fiz mestrado integrado em Psicologia Aplicada, juntei me à turma que já havia, e isto foi em 2014. Depois, terminei em 2016, e acabei sempre a praticar na Universidade do Minho. Fiz estágio curricular
+enquanto estava a fazer o mestrado, na Associação de Psicologia da Universidade do Minho. Mais tarde, fiz estágio profissional na Associação de Psicologia da Universidade do Minho e fui bolseira de investigação durante dois anos nos projetos de tutoria e mentoria. Então acabei por ficar ainda com uma ligação mais extensa na universidade.
+
+## Então, sempre estiveste ligada à Universidade do Minho ao longo da tua trajetória profissional?
+Sim. Deixei a universidade, porque na universidade estava num contexto de investigação. Acho que chega a um ponto que nós temos de ir para a prática, ver o que é que precisamos, para depois continuarmos a investigação. 
+
+## A Associação de Psicologia da Universidade trabalha com os próprios alunos?
+Tinha alunos estagiários e profissionais exteriores contratados. Recebíamos para as consultas pessoas de fora, não tinham muitos alunos.
+
+## Como é que foram estes anos? Enquanto estudante de Psicologia?
+É melhor estudar Psicologia do que trabalhar na
+Psicologia. O curso de Psicologia é muito interessante e fala de vários temas que podemos relacionar com a nossa vida e com quem está à nossa volta. Acabamos por compreender algumas pessoas, algumas atitudes que tivemos. Na universidade, também foi interessante porque eu estive no Ismai, ou seja, uma universidade bastante mais pequena, e na universidade do Minho, de repente éramos cento e tal numa turma. Tem partes boas como tem partes más, também por termos acesso a muitas mais pessoas. Não participei na praxe, na universidade do Minho, foi sempre em situações relacionadas com as aulas, mas acabo por perceber que existe logo uma grande diferença de passar num contexto pequeno para um contexto tão grande.
+Não havia, certamente, tantas opções e tantas oportunidades na universidade, mas também não estava com a mentalidade tão aberta para participar em programas e iniciativas que a universidade fosse desenvolvendo. E acho que é isso que é importante enquanto estudante neste momento.
+Mas foi muito interessante. E posso dizer que agora com quase 32 anos que podia ter aproveitado muito mais os tempos da universidade. 
+
+## Então, agora passando às de Tutorias e Mentorias, integraste as equipas desses projetos? 
+Sim. 
+
+## Podes-me explicar um bocadinho sobre?
+Sim. Eu estava na parte da organização destes programas, nunca participei. Havia um programa de Tutorias por pares, o que se fazia era: juntar um aluno mais velho com um aluno mais novo; eram sessões em grupo e o interessante desses programas era que tentávamos sempre juntar pessoas de áreas diferentes. Para as pessoas acabarem por falarem sobre temas diferentes, também para desenvolverem outras competências e para conhecerem outras pessoas. Porque o facto, por exemplo, de nós estarmos na universidade e estarmos envolvidos na praxe, acabamos por estar sempre com pessoas no nosso curso. Não abrimos horizontes, ficamos sempre naquela caixa. Então, com estes programas, tanto as Tutorias como as Mentorias, é sempre misturar áreas. O que eu fiz: Eu trabalhei na parte de organização, na parte científica, estava como bolseira de investigação. Trabalhei com a minha professora Teresa Freire e estes programas estão incluídos na reitoria, ou seja, também depois tudo o que fosse em termos de sessões e planeamento de atividades estava sempre envolvido na reitoria da universidade. As Tutorias por pares, o aluno chega ao primeiro ano, então nós vamos juntávamo-lo a alunos mais velhos, ou seja, a partir do segundo ano. 
+As Mentorias são para alunos finalistas, que juntávamos a mentores. Estes são ex-alunos da universidade, ou seja, pessoas que hoje em dia já têm uma grande carreira profissional, e se disponibilizaram para ser mentores dos nossos alunos durante aqueles x meses, no segundo semestre. Nas mentorias existe um número fechado, eram 30 estudantes.
+
+## Podes dar mais detalhes?
+Basicamente, eu estava na coordenação científica.
+A minha orientadora, com quem eu trabalhava, a professora Teresa, era responsável pela parte científica dos programas, ou seja... Eu recolhia os dados e contactava os estudantes, já que era eu que recebia as inscrições. Então, eu fazia a seleção, uma pré-seleção das candidaturas, e fazia entrevistas. 
+No caso do programa das tutorias, eu coordenava todas as sessões: cada vez que eles tinham sessões de tutoria tinham-me que avisar. Para além disso, também fazia uma formação com eles. Antes de eles iniciarem e serem tutores, têm de fazer uma formação de três módulos. As formações eram muito voltadas para as competências, ou seja, competências transversais, Criatividade, resolução de problemas, comunicação... 
+Nas mentorias recebia as candidaturas, estava a par do processo de seleção, fazíamos as entrevistas, depois fazíamos o match, de mentor para mentorando. Ficava a acompanhar as sessões deles, e à medida que as fossem tendo avisavam, para o caso de surgir alguma situação [extraordinária].
+
+## Como era esta interação com os alunos?
+É assim, quem se inscrevia eram sempre pessoas que tinham interesse. Nós recebíamos mais candidaturas daquelas que podíamos escolher, e sempre aqueles que sempre fossem mais ativos e que nos traziam mais interesse se destacavam. Eu acho que é isso que é importante também quando és estudante, que é aquilo de querermos sair da zona de conforto, querermos conhecer outras realidades, querermos falar com outras pessoas.
+Claro, havia sempre aqueles que eram mais tímidos e precisavam de uma ajuda desses tipos de programas.
+Também havia aqueles que eram sempre os mais desinibidos, que já participavam em montes de coisas. O facto de trabalharem também fora da universidade ajuda muito.
+É totalmente diferente de um estudante que nunca trabalhou e de um estudante que trabalha fora da universidade, em termos de competências.
+
+## Como é que surgiram estes projetos ou o que te levou a integrá-los?
+Como fiz estágios com a professora Teresa Freire, fiz primeiro estágio curricular, depois estágio profissional.... Acabei por trabalhar sempre na equipa de investigação dela. Então, estes projetos surgiram um bocadinho nessa ligação. A equipa de investigação dela é muito focada no desenvolvimento positivo e no funcionamento ótimo. Sempre a pensar em desenvolver competências dos jovens, então é um pouco esta a minha ligação para os programas. Nos estágios, fazia programas de intervenção em grupo, e como as Tutorias por pares eram sempre em grupo, levou-me a manter-me interessada por estas questões. Trabalhar em grupo com os jovens, desenvolver competências deles e ajudar a criar estas relações de primeiro ano com o segundo. Eles acabavam sempre a ser acompanhados ao longo do tempo todo que estão na universidade
+
+## Como é que tu descreves um aluno que participa como tutor no Programa de Tutorias por Pares?
+Então, um aluno que participa como tutor tem de ser um aluno disponível, porque nós não podemos só demonstrar interesse. Nós temos de ter disponibilidade, compromisso e um aluno que goste e que queira ajudar o outro. Os tutores também desenvolvem competências, então têm de pensar nisto. Nós quando estamos responsáveis por alguém acabamos por desenvolver competências, mas temos de considerar que o nosso papel ali é ser tutor de alguém, ou seja, é alguém que nós vamos acompanhar, até porque quando chegamos à universidade é tudo muito confuso. 
+O papel do tutor tem de ser alguém que esteja ali, atento a estes pormenores, a ver o que é que o tutorando, (que é o aluno que vai receber a tutoria) precisa, que dúvidas é que ele tem, tentar tirar essas dúvidas, mesmo que não se saiba, tentar descobrir como... Ser responsável e, acima de tudo, ser uma pessoa proativa, que queira fazer algo mais para além de ir para a universidade estudar. 
+Coisa que eu acho que cai muito no esquecimento e é normal. Eu própria também cheguei a um ponto que estava na universidade só para estudar e vir embora. Mas acho importante que os alunos tentem aproveitar o período que estão na universidade para algo mais para além de estudar. 
+
+## Relativamente ao programa de Tutorias, qual é o critério de seleção para ser mentorando? 
+Os critérios de seleção eram alguns. Primeiro, o aluno não podia ter cadeiras para trás, tinha de ter o curso feito, porque são finalistas, e tinham de estar a acabar, não haver possibilidade de terem que ficar mais tempo. Nas entrevistas também dávamos muito valor a currículos onde se mostrava que os alunos faziam algo mais para além da universidade, que se envolviam em iniciativas. Porque aí mostra já a proatividade de cada um. Se nós olhássemos para o currículo em que o período da universidade foi só o período de ir para as aulas, não se envolveu em mais nada, mesmo iniciativas da própria universidade, aí era uma pessoa que não tinha muita iniciativa e muito interesse em querer algo mais, então também não iria dar tudo no programa.
+E quando nós dizíamos que os programas misturavam áreas, nós também percebíamos nas pessoas que tinham este interesse. Porque há pessoas que são muito fechadas à sua própria área. Do género “Não, eu quero um mentor para a minha área e aquele programa não era o indicado”. Como também havia alguns que achavam que isto era uma ótima ideia e percebiam porquê. Porque é que que uma pessoa de Gestão acaba com um mentor de advocacia? E havia pessoas que conseguiam perceber, pensavam “Isto vai ser importante, pode-me ajudar em algumas coisas, posso tirar dúvidas”. 
+Por último, também era um dos critérios, de achar interessante o programa.
+
+## Isto aplica-se apenas a licenciados, certo?
+Não, mestrados também.
+
+## O que é que mais te marcou destas experiências? Ou tens alguma história em especial que gostasse de partilhar?
+Eu acho que era sempre interessante era ver a ligação com que eles acabavam o programa, tanto os tutores com os tutorandos, como os mentores com os mentorandos. 
+No final do ano era muito bonito ver a ligação que criaram uns com os outros, principalmente com os Mentores e os mentorandos, como é um [mentor] para um [mentorando]. E havia muitos mentores que, ao acabar, vinham quase a ter um papel de pai e de mentor para a vida!   Isto porque não são mentores a nível profissional, eles não têm obrigação de dar nada a nível profissional, até porque não são da tua área... Mas podem ter conhecimentos. É aquela ideia de um mentor para a tua vida. Tu estás a acabar na universidade, o que é que deves fazer?  E ainda estás com aquelas inseguranças todas: vou procurar trabalho onde? Como é que vou fazer o meu currículo? Como é que me deveria comportar numa entrevista? O que é que as pessoas que estão no mercado de trabalho gostam? E todo este saber que eles conseguem partilhar, acho que é isso que alimenta as ligações uns com os outros. É giro e vi muitas duplas a funcionarem muito bem, que mesmo quando o programa acabou, continuaram amigos. 
+São pessoas que trocam mensagens, e que há muitos casos em que os alunos partilham com os mentores, por exemplo, que “consegui isto” e os mentores ficam muito felizes!
+Os mentores de ano para ano são os mesmos. E quando vêm para a primeira reunião, para iniciar o programa, contam que ainda estão em contacto com os alunos deles. 
+Ou seja, acho que é giro manter esta ligação.
+
+## Notaste alguma diferença no comportamento, no panorama geral de alunos ou até professores, na universidade? Como é que tu pintas esta imagem, ao longo do tempo?
+Eu acho que, primeiro, em relação aos professores, fiquei com a perceção que eles também evoluem. E há outros que já não estão tanto nesse papel.
+E depois nota-se muita a diferença do professor aqui [em cima] e o aluno aqui [em baixo]. As pessoas que vão evoluindo e que se conseguem integrar, estar mais dentro daquilo que os estudantes procuram e precisam, acho que com essas conseguimos ter uma relação. Ou seja, não ficam naquele patamar alto, que eu também percebo, e temos de respeitar. Mas não precisámos ter aqui este espaçamento tão grande. E acredito que, pelo menos nos últimos anos em que eu estive lá... as relações já ficaram mais próximas dos alunos. E acho que isso ajuda também o aluno a passar esse tempo na universidade.
+E em relação aos alunos, notei algumas diferenças, até por causa da pandemia do Covid. Nos estágios fiz tudo em formato presencial, depois o trabalho como investigadora, parte deles ficaram em formato online. Notei muitas dificuldades nos miúdos pelo menos do primeiro ano, os que estavam a entrar na universidade e tinham feito o secundário em formato online. Em termos de competências de comunicação, era muito complicado. Por exemplo, era difícil de olharem para nós e não desviarem a cara, de poderem estar numa mesa e estarem a conversar.
+Eu acho que o formato online pode nos ajudar muito e facilita em muitas situações, mas não é de todo aquilo que nos ajuda a desenvolver competências de comunicação e socialização. Esta pandemia fez com que os estudantes perdessem um bocadinho estas capacidades.
+Eu lembro-me da minha professora dizer que elas estavam em turmas, com montes de alunos, e nem ligavam as câmaras. Era muito chato estarmos a falar e a dar uma aula, e nem câmaras abriam.
+Foi difícil para os alunos, mas também foi difícil para os professores. Posso dizer que com a pandemia viu-se uma diferença nos alunos, e que devemos ter sempre em mente tentar desenvolver estas competências com eles, que são muito importantes.
+
+# Presente: Centro Educativo, Bamboo
+
+## Passando para o presente, o teu centro de Estudos, o Bamboo. Para quem não conhece, fala um bocadinho dele, qual a atividade que há aqui e qual o objetivo deste espaço. 
+O Bamboo é um centro educativo que tem como objetivo não só o acompanhamento escolar das crianças, mas também o desenvolvimento positivo das crianças. O que é isto do desenvolvimento positivo? O foco não é apenas a parte académica, onde nós vemos as crianças como um todo, e apostamos nas potencialidades delas. 
+Nós não somos todos iguais, não temos de conseguir fazer todos o mesmo. É conseguir com que estas crianças que passem por aqui tenham noção daquilo a que são melhores, onde é que são bons e desenvolverem essas potencialidades. 
+A par disto, o nosso centro tem uma vertente muito ligada ao ar livre e à natureza. Este contacto com, por exemplo, a horta que temos cá, com as árvores, com as atividades de plantar, de cuidar, de ver a crescer, também ajuda no desenvolvimento deles. 
+Então, nós já estamos formatados e aprendemos sempre em salas de aula fechadas e o meu foco com isto é tentar sair deste contexto. Porque acredito que, a educação como está organizada, é muito fechada, uma caixa, e nós temos de tentar tirá-los e tentar que eles tenham acesso a outras experiências. 
+E com o Bamboo é isto que eu lhes quero proporcionar. Também aqui temos o apoio ao estudo e a preparação para os testes, que é uma prioridade, e nunca deixará de ser, mas depois temos sempre a oportunidade de fazer outras atividades. Estas sempre com o objetivo de eles desenvolverem competências, como a criatividade, a resolução de problemas...
+Nós aqui gostamos que eles inventem jogos, que eles tentem, por eles, brincar livremente, com o que quiserem. E não, “olha, toma este jogo, toma aquilo, faz isto”. Tentar que eles consigam olhar à volta e inventem brincadeiras, e pintem no chão, e vão escavar... que eles sejam crianças livres. De uma forma geral, é isso.
+
+
+## Para ti, como é que se relaciona diretamente a psicologia e a educação? 
+Eu gostava que se relacionasse mais. Acho que ambas têm tudo o que se devia relacionar, e têm tudo a ver. 
+A educação acompanha a criança a crescer e partes da aprendizagem e é um bocadinho difícil isto acontecer sem a psicologia. Então, por isso é que acho que, infelizmente, a psicologia ainda é uma área que é pouco reconhecida, agora é mais, bem melhor que antes, mas ainda é pouco reconhecida. As escolas têm pouco acesso a psicólogos, as universidades têm pouco acesso a psicólogos... Acho que ainda fica muito esquecida, e que deveria estar a acompanhar a educação. Deveriam estar lado a lado, nós não podemos encher um aluno cheio de matéria e coisas que não tenham de aprender sem fortalecermos aquele aluno! Então, um médico vai aprender toda a teoria, mas depois não sabe agir como pessoa, para chegar ao trabalho e não se conseguir organizar. Entra em pânico com montes de tarefas, não consegue resolver os problemas, não consegue comunicar, não consegue ser criativo. E isso é onde entra a psicologia, ou seja, as duas deveriam andar de mãos dadas.
+
+
+## Continuando este raciocínio, qual a habilidade ou um conhecimento prático específico que adquiriste durante os teus anos formativos, que consideras mais relevante para o que fazes aqui com estes meninos? 
+Resolução de problemas, porque o facto de ter estudado na universidade, depois trabalhar lá, e ter de trabalhar muito tempo com uma professora minha.... Vi que a universidade é muito de concursos, depois é projetos, é submeter isto, submeter aquilo, depois vem para trás, depois mais outra vez...
+E o facto de ter treinado isso e de ver pessoas a, por exemplo, terem expectativas, mas depois já não conseguiram um projeto, então depois terem de fazer outro projeto... O facto de ter feito isto, de ter sempre de me arranjar. Vejo que é a solução é mesmo a resolução de problemas e a criatividade, de sempre inventar coisas.  E acho que isso me ajudou para agora, porque a verdade é que diariamente temos questões a resolver, quando se trabalha com pessoas. Diariamente há problemas que temos de resolver e o mais importante é não bloquearmos, é não vermos só determinada situação negativa e irremediável, e tentarmos dar a volta, porque conseguimos sempre dar a volta. Claro, de uma maneira ou outra.
+
+
+## Trabalhas com crianças. Algum motivo específico para a preferência? 
+Porque os jovens são os futuros adultos. Se queremos ter um adulto melhor, temos de trabalhar com os mais pequenos, porque os adultos já não... [risos] ou seja, o nosso mundo está nas mãos deles e é com eles que nós devemos investir.
+
+## Qual é a tua maior dificuldade em trabalhar com este grupo e como é que a ultrapassas? 
+A maior dificuldade é a hiperestimulação que eles têm. É muito difícil; antigamente, não havia tanto acesso a ecrãs, telemóveis, redes sociais, tanta informação, televisão e jogos. Eles acabavam por estar lá fora a brincar e inventavam outros jogos e as suas próprias atividades. Hoje em dia, como estão tão habituados a isso, a jogos e estarem em casa no computador a jogar, é muitos barulhos, é muitos estímulos, é isto, é aquilo. É muito difícil todas as outras atividades serem tão interessantes como aquelas. 
+E é essa a grande dificuldade.... Primeiro, o facto de que são muito poucos aqueles que conseguem inventar as próprias brincadeiras. São poucos aqueles que conseguem estar mais de 10 minutos num jogo, sem sentir o tédio. E depois, eles não sabem lidar com o aborrecimento. Se não têm nada para fazer, não sabem inventar. E ficam a olhar, e não sabem o que fazer, ou seja, precisam constantemente que lhes deem alguma coisa para as mãos, porque já foram habituados a isso desde em casa: não sabem o que fazer, dão lhes um telemóvel para a mão; se estão num almoço, e o bebé está a chorar, não sabem o que fazer, dão-lhe um tablet... e só se entretêm com aquilo, acabam por se habituar a isso.
+
+## Como é que lidamos com isso? 
+É muito difícil. Aqui no Bamboo, tento sempre que não tenham contato com telemóveis e tablets, claro que o que é que acontece? Os mais pequenos não têm e acabam por brincar e eles próprios acabam por decidir o que querem brincar e brincam. Os adolescentes já é ao contrário. Os adolescentes: ou lhes dou uma tarefa para fazerem, ou estão nos telemóveis. E eu ainda não queria entrar na fase da proibição, porque também não acredito que seja a proibir que se chega lá, quero que que eles entendam que não é o ideal. Porque eu acho que se eu lhes dou uma tarefa, eles deixam os telemóveis e fazem. Eu acho que quando eles ficam aborrecidos é que vão buscar os telemóveis. Então ainda estou a tentar aprender como gerir esta questão dos telemóveis sem proibir.
+
+## Como é que tu lidas, como é que tu lidas com meninos mais desafiantes, seja em termos de comportamento ou mesmo em aprendizagem, aqueles meninos que são “dor de cabeça”?
+Primeiro é definir limites, nunca ultrapassar esses limites, nunca. É reconhecer logo que aquela criança é assim, e a partir daí, ter sempre limites definidos. Porque a partir do momento que eles abusam uma vez, abusaram sempre. Então, eu tento sempre, quando ainda estou a conhecer, sou bastante mais afastada, mais desligada, mais séria, para definir esses limites. Depois de os conhecer, já vou percebendo, até quando é que se pode esticar e até quando é que não se pode esticar. E uma coisa que eu acho que poucas pessoas às vezes não têm a noção é podermos conversar com eles. Podemos explicar tudo. 
+E ainda há dias eu tive uma conversa sobre limites com um adolescente e expliquei-lhe. Ele queria mexer numa coisa e eu disse que não. E ele constantemente perguntava, então fui ter uma conversa com ele sobre isto e ele entendeu-me. Eu disse-lhe “se eu te deixar uma vez, a seguir vais querer mais vezes e no dia a seguir tenho outros que querem também, por isso eu não vou deixar nenhuma vez”. Se nós conversarmos e explicarmos o racional que está ali atrás, eles vão entendendo.
+
+## E qual é a melhor parte de trabalhar com os miúdos? 
+É cansativo, mas é divertido porque eles têm piada. Eu costumo dizer que eles são muito puros. Quando fui estagiar, ainda na licenciatura (durante 5 anos não temos prática, só temos durante os últimos 6 meses do último ano); calhou de ficar a trabalhar com crianças, e eu não queria; sempre achei que ia trabalhar com adultos, sempre. Até chorei “ai, crianças, as crianças são muito verdadeiras, não vão gostar de mim, o que eu vou fazer com crianças? Elas intimidam, deixam-me... O que é que me vão dizer?”  [risos]. E lembro-me de estar na primeira reunião de estágio, de explicar isto, que estava com pouca vontade, achava que não ia conseguir. Uma das professoras virou-se e disse, “mas porque é que acha que ia conseguir com adultos?” E efetivamente depois eles conquistaram-me. Foram mesmo eles que me mostraram que eu tinha de trabalhar com crianças, porque eles têm piada. É o lado bom, são engraçados. Eles são tão puros, mas ao mesmo tempo não têm más intenções.
+
+## Quais são os projetos que tens para o futuro do Bamboo? 
+Para o futuro do Bamboo eu queria me distanciar um bocadinho do conceito dos centros de estudo, por isso é que digo que somos um centro educativo. Queria mesmo que fosse um espaço em que as crianças se desenvolvessem como um todo e não apenas academicamente. 
+Em termos de o que é que eu vejo, não é crescer em número de crianças, mas conseguir impactar algumas crianças. Eu sempre disse que se eu conseguir fazer uma criança crescer e que seja futuramente um adulto feliz e mais equilibrado, eu já fico contente. Então, o que eu quero é que estes miúdos eventualmente um dia sejam adultos mais saudáveis. Nós não somos sempre equilibrados, temos fases... Mas adultos com uma mala de ferramentas que saibam lidar com situações da vida deles. E é isso que eu quero que o Bamboo seja, seja quase a escola para eles aprenderem isso.

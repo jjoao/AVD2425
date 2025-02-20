@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Museu da Pessoa (Museu da Pessoa) -->
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi>
+	<projecto>História da Universidade do Minho</projecto>
+	<depoente estadocivil="divorciado">Maria Cecília Marado Moreira</depoente>
+	<entrevistador>Sónia Moreira</entrevistador>
+	<editor>Ana Grudzinski</editor>
+	<biografia>Maria Cecília Branco Marado Moreira nasceu em Braga, a 16 de Dezembro de 1960. Iniciou os seus estudos académicos em 1978, em medicina, no Porto. Em 1980 ingressou em Engenharia de Sistemas e Informática na Universidade do Minho. Foi nesta instituição que realizou os seus estudos, iniciando, posteriormente, a sua vida profissional no Centro de Informática, onde presenciou, ainda como aluna, a chegada do primeiro grande computador do Centro. Assistiu e participou na reestruturação do mesmo, participando como coordenadora, numa trajetória marcada por muito trabalho e dedicação. Actualmente, como chefe de Divisão do Centro de Informática, continua a dedicar-se à modernização do mesmo. É divorciada e tem dois filhos.</biografia>
+	<data dia="25" mes="03" ano="2002"/>
+	<profissao>Chefe de divisão do Centro de Informática - Gualtar</profissao>
+	<nascimento ano="1960" mes="Dezembro" dia="16" onde="Braga"/>
+	<morada>Rua 25 de Abril, 292, 2º, Braga</morada>
+</bi>

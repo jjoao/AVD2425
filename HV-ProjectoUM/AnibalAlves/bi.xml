@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi>
+ <projecto>Projecto Universidade do Minho</projecto> 
+ <depoente>Aníbal Augusto Alves</depoente>
+ <entrevistador>Alzira Azevedo Alves</entrevistador>
+ <biografia>Aníbal Augusto Alves nasceu em Pinhal do Norte, Carrazeda d' Ansiães a 10 de Julho de 1940. Passou a infância entre brincadeiras e pequenos trabalhos em Pinhal.  Aos  7 anos imigrou com os pais para o Alto Douro. Completou a instrução primária no colégio interno, no Porto.  Movido pelo desejo de ser padre Jesuíta, seguiu os estudos no Seminário dos Jesuítas no Porto  e em 1957  entrou, como  noviciado, na Companhia de Jesus.  Aos 25 anos abandonou a ideia de ser missionário. Licenciou-se em Filosofia e em Comunicação Social. Foi professor em vários colégios e actualmente é docente na Universidade do Minho.  Leccionar é a sua "razão de vida". É casado e tem dois filhos.</biografia>
+
+ <profissao>docente universitário</profissao>
+ <nascimento onde="Pinhal do Norte Carrezeda d'Ansiães-Alto Douro" ano="1940" mes="07" dia="10"/>
+</bi>

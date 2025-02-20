@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Museu da Pessoa (Museu da Pessoa) -->
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi>
+	<projecto>Projecto Universidade do Minho</projecto>
+	<depoente>Manuel Domingues de Sá</depoente>
+	<entrevistador>Clarisse Almeida Araújo; Ana Alice de Castro Martins; Sónia Adriana Fernandes e Fátima Carvalho Dias</entrevistador>
+	<biografia>Manuel Domingues de Sá nasceu em Lordelo, concelho de
+  Amares, a 8 de Fevereiro de 1952.  Passou uma infãncia entre as
+  brincadeiras com a irmã e a lida dos animais. Frequentou a
+  escola até ao nono ano, conjugando os estudos com o trabalho
+  que exercia com o pai, que era empreiteiro da construção
+  civil. Aos 15 anos saiu de casa para trabalhar em Guimarães
+  como empregado de mesa, onde esteve durante quatro anos. Depois foi
+  para Braga trabalhar na hotelaria. Nessa altura, tirou o curso que
+  lhe deu o estatuto profissional de segunda classe na indústria
+  de hotelaria. Em 1980 entrou para a Universidade do Minho como
+  ajudante de cozinha e actualmente trabalha como gerente do bar do
+  Complexo Pedagógico II. É casado e tem dois filhos.</biografia>
+	<data ano="2000" mes="09" dia="27"/>
+	<profissao>Hotelaria; ajudante de cozinha; gerente</profissao>
+	<nascimento ano="1952" mes="02" dia="08" onde="Lordelo-Amares"/>
+</bi>

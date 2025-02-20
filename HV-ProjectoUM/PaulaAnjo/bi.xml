@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Museu da Pessoa (Universidade do Minho) -->
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi>
+	<projecto>Projecto Universidade do Minho</projecto>
+	<depoente>Paula Maria da Silva Anjo</depoente>
+	<entrevistador>Lurdes Abreu, Angelina Pinho e Susana Silva</entrevistador>
+	<editor>Sónia Moreira</editor>
+	<biografia>Paula Maria da Silva Anjo nasceu em Luanda, Angola, a 2 de  Junho de 1968.  Aos 7 anos de idade veio com a família viver para Braga. Aí aprendeu a ler e a escrever em colégios internos. Em 1987 começou a trabalhar na Universidade do Minho como secretária da Escola de Engenharia. Acompanhou o percurso da Universidade desde as instalações nos Pavilhões Verdes, passando pelo D.PedroV até Gualtar. Exerce a actividade de assistente administrativa principal no Departamento de Informática. É casada e tem uma filha. O seu maior sonho é ver a filha licenciada e conhecer a ilha da Madeira.</biografia>
+	<data ano="2000" mes="09" dia="07"/>
+	<profissao>secretária; assistente administrativa</profissao>
+	<nascimento ano="1968" mes="06" dia="02" onde="Luanda-Angola"/>
+</bi>

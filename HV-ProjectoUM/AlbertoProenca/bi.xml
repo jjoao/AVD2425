@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Museu da Pessoa (Museu da Pessoa) -->
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi>
+	<projecto>Universidade do Minho</projecto>
+	<depoente>Alberto José Gonçalves de Carvalho Proença</depoente>
+	<entrevistador>Rui Miguel Oliveira Marques, Sandra
+		  Cristina Andrade Carvalho e Susana Braga</entrevistador>
+	<biografia>Alberto José Gonçalves de Carvalho Proença nasceu em 1954, em Nampula, Moçambique. Passou a sua infância em Moçambique, onde se recorda de subir às árvores e ir à piscina. Até aos 12 anos viveu em Nampula, aos 13 foi para Lourenço Marques. Frequentou um colégio de irmãos desde os 5 anos, mas acabou o sétimo ano em Portugal, num período em que a sua mãe estava de "licença graciosa". Entrou na universidade em Lourenço Marques onde foi discíplo de muitos dos actuais docentes da Universidade do Minho. Terminou o curso de Engenharia Electrotécnica em Coimbra e logo a seguir casou. Começou a dar aulas na Universidade do Minho no ano lectivo de 1976/77. Em 1978 foi para Manchester com a esposa fazer o doutoramento, onde permaneceu durante 3 anos. Quando regressou a Portugal "começou um novo estilo de vida, porque foi a partir daí que começaram a vir as crianças". Tem dois filhos.</biografia>
+	<data dia="27" mes="9" ano="2000"/>
+	<profissao>docente universitário</profissao>
+	<nascimento onde="Nampula-Moçambique" ano="1954" mes="07" dia="01"/>
+</bi>

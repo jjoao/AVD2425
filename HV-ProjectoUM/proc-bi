@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+from jjcli import * 
+from bs4 import BeautifulSoup as bs
+
+c=clfilter(opt="do:")
+
+for txt in c.text():
+    print(c.filename())
+    dt=bs(txt,'lxml-xml')
+    for a in  dt.findAll('depoente'):
+        print(f'Depoente: {a.text}') 
+
+## a=elem a.name=tag a['href']

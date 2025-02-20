@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Museu da Pessoa (Museu da Pessoa) -->
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi>
+	<projecto>Projecto Universidade do Minho</projecto>
+	<depoente>António de Mota Gonçalves</depoente>
+	<biografia>António de Mota Gonçalves nasceu a 30 de Setembro de 1947, na freguesia de Caires, concelho de Amares, distrito de Braga. Teve uma educação bastante rígida devido ao autoritarismo do seu pai. Saiu de casa aos 10 anos e foi para um colégio interno em Monte Real, onde esteve até aos seus 13/14 anos. Com 15 anos foi para Lisboa e ofereceu-se como voluntário da Marinha. Aos 19 anos já estava na Guiné e aos 22 em Moçambique. Regressou a Braga em 1975 e entrou para a Universidade do Minho em 1979.Tem como principal hobbie a agricultura.</biografia>
+	<profissao>Panificação; funcionário público</profissao>
+	<nascimento ano="1947" mes="09" dia="30" onde="Caires-Amares "/>
+	<notas>Há uma série de nomes incompletos que é preciso confirmar junto do depoente</notas>
+</bi>

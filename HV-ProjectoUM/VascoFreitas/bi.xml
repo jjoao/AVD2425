@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bi SYSTEM "http://alfarrabio.di.uminho.pt/mpessoa/dtd/bi.dtd">
+<bi> 
+
+ <projecto> Projecto Universidade do Minho</projecto> 
+ <depoente>Vasco Luís Freitas</depoente> 
+ <entrevistador>Elisabete Carvalho, Carla Araújo e Denise Camposinhos</entrevistador> 
+
+ <biografia>Vasco Luís Barbosa de Freitas nasceu em Lisboa, a 20
+  de Julho de 1948. Aos três meses emigrou com a mãe para
+  Moçambique. Filho de Engenheiro de Minas, passou a sua
+  infância entre Portugal e o país africano. Em 1960
+  estableceu-se em Moçambique onde se licenciou em Engenheiro
+  Electrotécnico, na universidade de Lourenço Marques.
+  Participou na guerra do ultramar. Regressou definitivamente a
+  Portugal a 11 de Março de 1975. Nesse mesmo ano ingressou, como
+  docente, na Universidade do Minho. Em 1976 viajou para Inglaterra
+  para efectuar o doutoramento, regressando à universidade cinco
+  anos depois. É viúvo, tem duas filhas e contiua a
+  leccionar na Universidade do Minho. O maior sonho é tornar a
+  Moçambique de barco à vela.</biografia>
+
+ <data ano="2000" mes="09" dia="29"/>
+ <profissao>docente universitário</profissao> 
+ <nascimento onde="Lisboa" ano="1948" mes="07" dia="20"/>
+
+
+</bi>

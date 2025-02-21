@@ -26,6 +26,10 @@ scoop install gh
 ### Descarregar uma cópia
 
 ```
+gh repo clone jjoao/AVD2425
+gh auth login
+gh repo view OWNER/REPO --web
+
 git clone git@github.com:jjoao/AVD2425.git
 ```
 

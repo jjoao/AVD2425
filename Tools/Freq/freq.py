@@ -33,7 +33,7 @@ def main():
     # -r      rel or abs
     isrel = False
     if "-r" in cl.opt: 
-        rel = True
+        isrel = True
 
     freq = Counter()
     for txt in cl.text():

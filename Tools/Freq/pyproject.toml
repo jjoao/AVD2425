@@ -1,0 +1,10 @@
+[project]
+name = "freq"
+authors = [ {name = "José João Almeida", email = "jj@di.uminho.pt"} ]
+license = {text = "MIT"}
+version = "0.0.1"
+description = "Calcula frequencias (rel/milhão ou abs) de lemmas"
+dependencies = [ "jjcli", "spacy" ]
+
+[project.scripts]
+txtfreq = "freq:main"

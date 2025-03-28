@@ -1,0 +1,13 @@
+[project]
+name = "jjconll"
+authors = [ {name = "José João Almeida", email = "jj@di.uminho.pt"} ]
+license = {text = "MIT"}
+version = "0.0.1"
+description = "Calcula tabela de  word  pos lema" 
+dependencies = [ "jjcli","spacy" ]
+
+[project.urls]
+Home = "https://FIXME.pt/"
+
+[project.scripts]
+avdconll = "jjconll:main"

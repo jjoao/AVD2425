@@ -2,7 +2,7 @@
 name = "freq"
 authors = [ {name = "José João Almeida", email = "jj@di.uminho.pt"} ]
 license = {text = "MIT"}
-version = "0.0.1"
+version = "0.0.2"
 description = "Calcula frequencias (rel/milhão ou abs) de lemmas"
 dependencies = [ "jjcli", "spacy" ]
 

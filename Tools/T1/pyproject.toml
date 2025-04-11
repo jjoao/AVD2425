@@ -1,0 +1,11 @@
+[project]
+name = "keyword_extract"
+authors = [ {name = "José João Almeida", email = "jj@di.uminho.pt"} ]
+license = {text = "MIT"}
+version = "0.0.2"
+description = "Extrai keyword form texts"
+dependencies = [ "jjcli", "spacy","textacy" ]
+
+[project.scripts]
+keyterms = "keyword_extract:main"
+

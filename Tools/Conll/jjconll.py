@@ -23,11 +23,6 @@ DESCRIPTION
 import spacy
 from jjcli import *
 
-def retoken(doc):
-    with doc.retokenize() as retokenizer:
-        for entity in doc.ents:
-            retokenizer.merge(entity)
-    
 def printconl(doc,voc):
     for sentence in doc.sents:
         for t in sentence:
@@ -40,6 +35,7 @@ def main():
     cl = clfilter("di", doc=__doc__)
 
     nlp = spacy.load("pt_core_news_lg")
+    nlp.add_pipe("merge_entities")
     voc = nlp.vocab
 
     content = ""
@@ -47,7 +43,6 @@ def main():
         content += txt
 
     doc = nlp(content)
-    retoken(doc)
     printconl(doc,voc)
 
 if __name__ == '__main__':

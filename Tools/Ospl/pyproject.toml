@@ -1,0 +1,10 @@
+[project]
+name = "one_sent_per_line"
+authors = [ {name = "José João Almeida", email = "jj@di.uminho.pt"} ]
+license = {text = "MIT"}
+version = "0.0.2"
+description = "Calcula frequencias (rel/milhão ou abs) de lemmas"
+dependencies = [ "jjcli"]
+
+[project.scripts]
+onesentpl = "one_sent_per_line:main"

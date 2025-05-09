@@ -10,6 +10,7 @@ Options:
    -l   convert utf8 '—' in ascii '-' (for linguakit)
    -n   dash normalizer convert utf8 '—' (ndash, mdash, --) into 
           ascii '—' (mdash)
+   -x   input is xml  -- naive XML sentence split
 
 Lines starting with "#" are considered Markdown title
 
@@ -29,7 +30,7 @@ def main():
             print(par, "\n")
             continue
         if "-x" in cl.opt:
-            pass  
+            par = re.sub(r'(\s*<.{1,40}?>)+',r'§§',par)
         if "-n" in cl.opt:                                  ## normalize dashes
             par = re.sub(r'(?m:^ *([–—]|--)) ?(?=[\w«"])', r'— ', par) 
             par = re.sub(r'(?m:^ *- )(?=[A-ZÁÉÍÓÚ])', r'— ', par) 
@@ -40,7 +41,7 @@ def main():
 
         par = re.sub(r'\n', r' ', par)
         par = re.sub(r'([a-zãáéíúó0-9»"][.?!]+) ([A-ZÁÉÍÓÚ\-])', r'\1\n\2', par)
-        par = re.sub(r' +', r' ', par) 
+        par = re.sub(r'[ \t]+', r' ', par) 
         par = re.sub(abrev, r'\1 ', par,flags=re.I)         ## abreviaturas
         par = re.sub(r'(#.*?)§\s*', r'\n\1\n', par)
         par = re.sub(r'§', r'\n', par)

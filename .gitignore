@@ -2,3 +2,10 @@
 build
 _
 _[0-9]
+.*.swp
+*.exe
+*.log
+*.aux
+*.toc
+__pycache__
+_out.txt

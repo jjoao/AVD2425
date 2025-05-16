@@ -44,7 +44,7 @@ def main():
         par = re.sub(r'[ \t]+', r' ', par) 
         par = re.sub(abrev, r'\1 ', par,flags=re.I)         ## abreviaturas
         par = re.sub(r'(#.*?)§\s*', r'\n\1\n', par)
-        par = re.sub(r'§', r'\n', par)
+        par = re.sub(r'[ \t]*§[ \t]*', r'\n', par)
         if "-l" in cl.opt:
             par = re.sub(r'—', r'-', par)
             par = re.sub(r' ?-- ?', r' - ', par)
